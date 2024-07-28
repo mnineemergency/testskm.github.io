@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#014948</color>-->
+    <color name="colorSecondary">#6c757d</color>
+    <color name="colorSuccess">#28a745</color>
+    <color name="colorInfo">#17a2b8</color>
+    <color name="colorDanger">#c30010</color>
+    <color name="colorLight">#f8f9fa</color>
+    <color name="colorDark">#343a40</color>
+    <color name="colorSelected">#217938</color>
+    <!--<color name="colorPrimaryDark">#00574B</color>-->
+    <!--<color name="colorAccent">#D81B60</color>-->
+
+
+    <color name="colorPrimary">#125688</color>
+    <color name="colorPrimaryDark">#125688</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#c8e8ff</color>
+    <color name="background">#d0b6b6</color>
+    <color name="btColor">#541E1B</color>
+    <color name="rbColor">#420F19</color>
+    <color name="rbColorSelected">#771F02</color>
+    <color name="bgColor">#887E2811</color>
+    <color name="loading">#FFF</color>
+
+    <color name="color_preloader_start">#000000</color>
+    <color name="color_preloader_center">#000000</color>
+    <color name="color_preloader_end">#ff56a9c7</color>
+
+</resources>
